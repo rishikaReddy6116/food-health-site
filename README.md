@@ -1,4 +1,4 @@
-# Food Health Site
+# SnackWise - Food Health Site
 
 A comprehensive web application designed to help users make healthier food choices by providing instant nutritional information, recipe suggestions, and a personal health history tracker. This project is split into a **React frontend** and a **FastAPI backend** to provide a seamless and powerful user experience.
 
