@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# FastAPI backend
+backend/.env
+
+# Node / React frontend
+frontend/node_modules/
+frontend/.env
+
+# Virtual environment
+venv/
+
+# macOS system files
+.DS_Store
+
